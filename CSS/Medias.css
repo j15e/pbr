@@ -1,0 +1,12 @@
+object.googleVideo{
+	width:400px;
+	height:326px;
+}
+img{
+	border-width:1px;
+	border-style:solid;
+	border-color:#000000;
+	padding:0;
+	margin:4px;
+	float:left;
+}
